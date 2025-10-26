@@ -24,9 +24,8 @@ Airflow: http://localhost:8080 (admin/admin) → запустить DAG hr_dbt_l
 pgAdmin: http://localhost:5050 (admin) -> Добавить новый сервер (Name: Local PostgreSQL, Host: postgres ,Port: 5432 ,Username: dbt_user ,Password: dbt_password) → проверить таблицы в схемах analytics_*  
   
 Результаты:  
-[screenshots.pdf](https://github.com/user-attachments/files/23153207/screenshots.pdf)  
 <img width="974" height="128" alt="image" src="https://github.com/user-attachments/assets/d4b68860-0406-4be6-82f3-9404620f9047" />  
-
+<img width="974" height="1043" alt="image" src="https://github.com/user-attachments/assets/a023f958-aeb6-40b2-b07a-7c9fe1f55248" />  
   
 Выводы:  
 Связка Airflow + dbt даёт прозрачный пайплайн ELT с проверками (tests)  
