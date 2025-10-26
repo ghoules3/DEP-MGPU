@@ -25,6 +25,8 @@ pgAdmin: http://localhost:5050 (admin) -> Добавить новый серве
   
 Результаты:  
 [screenshots.pdf](https://github.com/user-attachments/files/23153207/screenshots.pdf)  
+<img width="974" height="128" alt="image" src="https://github.com/user-attachments/assets/d4b68860-0406-4be6-82f3-9404620f9047" />  
+
   
 Выводы:  
 Связка Airflow + dbt даёт прозрачный пайплайн ELT с проверками (tests)  
