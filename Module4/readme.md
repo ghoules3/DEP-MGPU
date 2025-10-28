@@ -137,5 +137,5 @@ SELECT prod_id, product_id, segment, category FROM {{ source('dw_test', 'product
 •	Каждый человек может настроить витрину под свои требования.  
 
 
-Индивидуальные задания:
+Индивидуальные задания:  
 <img width="697" height="59" alt="image" src="https://github.com/user-attachments/assets/d1cea54f-8370-469a-a7b5-424f34e08042" />
